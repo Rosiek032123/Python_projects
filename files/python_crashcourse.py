@@ -42,3 +42,17 @@ full_name=f"{first_name} {last_name}"
 print(full_name.title())
 print(full_name.upper())
 print(full_name.lower())
+
+##Chapter 2 try it yourself 2-5.
+ab_full_name= "Albert Einstein"
+
+Mess='once said,"A person who never made a mistake never tried anything new."'
+
+print(ab_full_name,Mess)
+
+##Chapter 2 try it yourself 2-6.
+famous_person="Albert Einstein"
+message='once said,"A person who never made a mistake never tried anything new."'
+print(famous_person,message)
+
+##Chapter 2 try it yourself 2-7.
