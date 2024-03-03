@@ -6,3 +6,7 @@ df=pd.read_csv('/Users/rosie/Desktop/final_remedial_course_analysis5.csv')
 
 # Display the DataFrame
 print(df)
+
+#display columns of df
+
+print(df.columns)
