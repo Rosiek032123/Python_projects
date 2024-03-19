@@ -1,6 +1,6 @@
 import pandas as pd
 
-hour=pd.read_csv('hour.csv')
+hour=pd.read_csv('/Users/rosie/Desktop/Python_projects/files/hour.csv')
 print(hour.head())
 
 print(hour['count'].mean())
